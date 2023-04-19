@@ -1,0 +1,7 @@
+start_event_list:
+
+
+Start_Event_list.0000.name:0 "仰望星空"
+Start_Event_list.0000.desc:0 "吾时常仰望星空，为的不是别的，只是单纯的为了寻找那个曾经的自己..."
+Start_Event_list.0000.a:0 "或许"
+Start_Event_list.0000.b:0 "也罢"

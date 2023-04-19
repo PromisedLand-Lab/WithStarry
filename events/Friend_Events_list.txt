@@ -1,0 +1,5 @@
+namespace = Friend_Events_list
+
+event = {
+	
+}

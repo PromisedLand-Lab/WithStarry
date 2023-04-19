@@ -1,0 +1,18 @@
+namespace = Start_Event_list
+
+country_event = {
+	id = Start_Event_list.0000
+	picture = GFX_evt_Start_Event_list.0000
+	hide_window = no
+	title = "Start_Event_list.0000.name"
+	desc = "Start_Event_list.0000.desc"
+	trigger = {
+		is_ai = no
+	}
+	option = {
+		name = "Start_Event_list.0000.a"
+	}
+	option = {
+		name = "Start_Event_list.0000.b"
+	}
+}

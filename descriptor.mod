@@ -1,0 +1,15 @@
+version="1.0"
+tags={
+	"Events"
+	"Technologies"
+	"Spaceships"
+	"Species"
+	"Utilities"
+	"Leaders"
+	"Graphics"
+	"Galaxy Generation"
+	"Buildings"
+	"Balance"
+}
+name="星海共舞"
+supported_version="3.7.4"
