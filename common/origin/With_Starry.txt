@@ -1,0 +1,8 @@
+origin_with_starry = {
+	is_origin = yes
+	name = "Origin_With_Starry.name"
+	desc = "Origin_With_Starry.desc"
+	icon = ""
+	player_only = true 
+	starting_clonony = pc_gaia
+}
